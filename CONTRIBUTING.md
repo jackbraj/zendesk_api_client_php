@@ -2,7 +2,7 @@
 1. Fork the project.
 2. Make your feature addition or bug fix.
 3. Add tests for it. This is important so that we don't break your improvement in a future version unintentionally.
-4. Please follow the [coding standard described above](#coding-standard).
+4. Please follow the [coding standard described below](#coding-standard).
 4. Commit and do not mess with version or history. (If you want to have
    your own version, that is fine but bump version in a commit by itself I can
    ignore when we pull)
